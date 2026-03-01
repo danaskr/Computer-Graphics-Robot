@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.ipch
+
+# Build folders
+x64/
+Debug/
+Release/
+build/
+
+# Temporary files
+*.log
+*.tmp
+
+# Executables
+*.exe
+*.obj
+*.pdb
+
+# OS files
+Thumbs.db
